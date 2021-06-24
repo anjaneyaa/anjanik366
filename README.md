@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anjani Kumar</h1>
-<h3 align="center">A passionate C# developer</h3>
+<h1 align="center">HiThere 👋, Welcome to my page...</h1>
+<h3 align="center">A passionate Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanik366&label=Profile%20views&color=0e75b6&style=flat" alt="anjanik366" /> </p>
 
-- 🔭 I’m currently working on **Dotnet Development**
+- 🔭 I’m currently working as a **Dotnet Developer**
 
 - 🌱 I’m currently learning **Node, React**
 
