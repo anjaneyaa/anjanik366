@@ -9,13 +9,9 @@
 
 - 👯 I’m looking to collaborate on **C#, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anjanik366](https://github.com/anjanik366)
-
 - 💬 Ask me about **C#,Python, Microsoft Graph, Microsoft Azure**
 
 - 📫 How to reach me **anjani.ies.26@gmail.com**
-
-- 📄 Know about my experiences [https://anjanik366.github.io/](https://anjanik366.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
