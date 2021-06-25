@@ -1,3 +1,6 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
 <h1 align="center">Hi There 👋, Welcome to my page...</h1>
 <h3 align="center">A passionate Coder</h3>
 
