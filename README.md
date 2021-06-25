@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "300px" src="https://github.com/anjanik366/anjanik366/blob/main/cover.PNG" onclick="windows.open(https://anjanik366.github.io)" alt="cover" />
+<a link="https://anjanik366.github.io/"><img width="100%" height = "300px" src="https://github.com/anjanik366/anjanik366/blob/main/cover.PNG"  alt="cover" /></a>
 </div>
 <h1 align="center">Hi There 👋, Welcome to my page...</h1>
 <h3 align="center">A passionate Coder</h3>
