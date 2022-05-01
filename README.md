@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanik366&label=Profile%20views&color=0e75b6&style=flat" alt="anjanik366" /> </p>
 
-- 🔭 I’m currently working as a **Dotnet Developer**
+- 🔭 I’m currently working as a **Angular Developer**
 
-- 🌱 I’m currently learning **Node, React**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **C#, Python**
+- 👯 I’m looking to collaborate on **Python, C#, Angular**
 
 - 💬 Ask me about **C#,Python, Microsoft Graph, Microsoft Azure**
 
