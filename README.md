@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C#,Python, Microsoft Graph, Microsoft Azure**
 
-- 📫 How to reach me **anjani.ies.26@gmail.com**
+- 📫 How to reach me **Dubey.Anjani.Kumar@hotmail.com**
 - :point_right: <a href="https://anjanik366.github.io/" target="_blank" >**https://anjanik366.github.io/**</a>
 
 
